@@ -30,12 +30,14 @@
 </p>
 
 ## Description
-Piggy backed from Xen Minimal Curvy Neon so not all new code
+This removes a lot of duplicate and unnecessary UI elements, which makes for a much more minimal forum browsing experience. Nearly every piece of code has a comment above it to describe what it does.
+
+All of this code has either been provided by "wiiija", "mortals" or "fairly sure the answer is no" on ocuk forums.
 
 If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.com
 
-<b>Author</b> - Sean Mayes and Nexus18<br />
-<b>Date Created</b> - February 19, 2020<br/>
+<b>Author</b> - Sean Mayes and Nexus18 <br />
+<b>Date Created</b> - February 19, 2017 <br/>
 <b>Applies To</b> - overclockers
 
 ## Notes
