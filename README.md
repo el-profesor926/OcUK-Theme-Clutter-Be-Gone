@@ -26,7 +26,9 @@
 </p>
 
 <p align="center">
-	<img src="Screenshot.png" alt="Screenshot of the theme">
+	<img src="Screenshot1.png" alt="Screenshot of the theme 1"> <br /> <br />
+	<img src="Screenshot2.png" alt="Screenshot of the theme 2"> <br /> <br />
+	<img src="Screenshot3.png" alt="Screenshot of the theme 3">
 </p>
 
 ## Description
@@ -49,7 +51,8 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 •
 <a href="https://addons.opera.com/en-gb/extensions/details/stylus/">Opera</a>
 •
-<a href="http://sobolev.us/stylish/">Safari</a>
+<a href="http://sobolev.us/stylish/">Safari</a> <br /> <br />
+If you want to mix the theme with this one just install a Xen theme and tick both themes inside Stylus/Stylish for it to take effect! 
 
 ## Installation
 > 01. Once you have the Stylus browser extention installed instructions above. <br />
