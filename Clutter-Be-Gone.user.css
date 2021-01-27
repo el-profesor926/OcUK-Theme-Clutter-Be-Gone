@@ -10,7 +10,7 @@
 @updateURL https://github.com/el-profesor926/OcUK-Theme-Clutter-Be-Gone/raw/main/Xen-Minimal-Dark.user.css
 ==/UserStyle== */
 
-@-moz-document domain("forums.overclockers.co.uk"), domain("trust.overclockers.co.uk")
+@-moz-document domain("https://www.overclockers.co.uk/forums/"), domain("https://trust.overclockers.co.uk")
 {
 
 /* removes the ocuk logo and header at the top of the forum */
