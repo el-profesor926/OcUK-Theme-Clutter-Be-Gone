@@ -10,9 +10,6 @@
 		src="https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg"></a>
 	<a href="https://github.com/el-profesor926/OcUK-Theme-Clutter-Be-Gone/" target="_blank">
 		<img alt="Install directly with stylus" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-		
-		[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-
 </p>
 
 <h3 align="center">
