@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           OcUK-Theme-Clutter-Be-Gone
 @namespace      https://github.com/OcUK-Theme-Clutter-Be-Gone
-@version        1.0.1
+@version        1.0.2
 @description    A dark minimal style theme for ocuk forums
 @author         Nexus18
 
@@ -10,7 +10,7 @@
 @updateURL https://github.com/el-profesor926/OcUK-Theme-Clutter-Be-Gone/raw/main/Xen-Minimal-Dark.user.css
 ==/UserStyle== */
 
-@-moz-document domain("https://www.overclockers.co.uk/forums/"), domain("https://trust.overclockers.co.uk")
+@-moz-document url-prefix("https://www.overclockers.co.uk/forums/") {
 {
 
 /* removes the ocuk logo and header at the top of the forum */
