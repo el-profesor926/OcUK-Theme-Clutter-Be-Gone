@@ -1,5 +1,5 @@
 <h1 align="center">
-	OcUK Clutter Be Gone Theme
+	OcUK Clutter Be Gone Blue Theme
 </h1>
 
 <p align="center">
