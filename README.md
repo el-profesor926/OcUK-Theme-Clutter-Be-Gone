@@ -1,5 +1,5 @@
 <h1 align="center">
-	Xen Minimal White OcUK Theme
+	OcUK Clutter Be Gone Theme
 </h1>
 
 <p align="center">
