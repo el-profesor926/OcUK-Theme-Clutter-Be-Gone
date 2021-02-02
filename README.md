@@ -63,6 +63,6 @@ If you want to mix OcUK-Theme-Clutter-Be-Gone with another theme just install a 
 > 03. Enable it in the Stylus/Stylish extension if it isn't already. <br />
 > 04. Load the ocuk forum and the layout should have changed.
 	
-## Issues :sparkles: ![GitHub issues](https://img.shields.io/github/issues/el-profesor926/OcUK-Theme-Clutter-Be-Gone?color=green&style=plastic) ![GitHub closed issues](https://img.shields.io/github/issues-closed/el-profesor926/OcUK-Theme-Clutter-Be-Gone?color=orange&style=plastic)
-If you have an issue, change request or comment about this theme please report it below:<br/>
+## Issues :sparkles: <a href="https://github.com/el-profesor926/OcUK-Theme-Clutter-Be-Gone/issues?q=is%3Aopen+is%3Aissue"> <img alt="Issues Opened" src="https://img.shields.io/github/issues/el-profesor926/OcUK-Theme-Clutter-Be-Gone?color=green&style=plastic"></a> <a href="https://github.com/el-profesor926/OcUK-Theme-Clutter-Be-Gone/issues?q=is%3Aissue+is%3Aclosed"> <img alt="Issues Closed" src="https://img.shields.io/github/issues-closed/el-profesor926/OcUK-Theme-Clutter-Be-Gone?color=orange&style=plastic"></a> <br />
+If you have an issue, change request or comments about this theme please report it below:<br/>
 <a href="https://github.com/el-profesor926/OcUK-Theme-Clutter-Be-Gone/issues">/OcUK-Theme-Clutter-Be-Gone/issues</a>
