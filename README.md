@@ -29,9 +29,10 @@
 </p>
 
 <p align="center">
-	<img src="Screenshot1.png" alt="Screenshot of the theme 1"> <br /> <br />
-	<img src="Screenshot2.png" alt="Screenshot of the theme 2"> <br /> <br />
-	<img src="Screenshot3.png" alt="Screenshot of the theme 3">
+	<img src="screenshot/Screenshot1.png" alt="Screenshot of the theme 1"> <br /> <br />
+	<img src="screenshot/Screenshot2.png" alt="Screenshot of the theme 2"> <br /> <br />
+	<img src="screenshot/Screenshot3.png" alt="Screenshot of the theme 3"> <br /> <br />
+	<img src="screenshot/Screenshot4.png" alt="Screenshot of the theme 3">
 </p>
 
 ## Description :sparkles:
