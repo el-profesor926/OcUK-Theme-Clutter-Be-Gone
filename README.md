@@ -60,7 +60,7 @@ If you want to mix OcUK-Theme-Clutter-Be-Gone with another theme just install a 
 
 ## Installation :sparkles:
 > 01. Once you have the Stylus browser extention installed instructions above. <br />
-> 02. click the "Install directly with Stylus" icon at the top of this page. <br />
+> 02. Click the "Install directly with Stylus" icon at the top of this page. <br />
 > 03. Enable it in the Stylus/Stylish extension if it isn't already. <br />
 > 04. Load the ocuk forum and the layout should have changed.
 	
